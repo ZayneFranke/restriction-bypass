@@ -1,0 +1,6 @@
+enabled = flase;
+unblock website = true;
+block teacher from seeing screen = true;
+unblock certian websites = (website1, website2, website3, website4) = false;
+allow apk installs = false;
+bypass IT access = false;
